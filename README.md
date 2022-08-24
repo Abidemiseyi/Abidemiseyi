@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abidmei
+- 👋 Hi, I’m Abidemi
 - 🌱 I’m currently learning Backend Development in Python
 - 💞️ I’m looking to collaborate on python related projects
 - 📫 How to reach me :
