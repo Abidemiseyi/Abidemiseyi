@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Abidemiseyi
-- 👀 I’m interested in improving my web development skills
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me 07068305410
+- 👋 Hi, I’m Abidmei
+- 🌱 I’m currently learning Backend Development in Python
+- 💞️ I’m looking to collaborate on python related projects
+- 📫 How to reach me :
+www.twitter.com/Abidemiseyi
+          
+ 
 
 <!---
 Abidemiseyi/Abidemiseyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
