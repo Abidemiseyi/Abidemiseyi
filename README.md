@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Backend Development in Python
 - 💞️ I’m looking to collaborate on python related projects
 - 📫 How to reach me :
-www.twitter.com/Abidemiseyi
+www.twitter.com/AdewoleBidemi
           
  
 
