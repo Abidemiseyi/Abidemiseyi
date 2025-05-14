@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abidemi
-- 🌱 I’m currently learning Backend Development in Python
-- 💞️ I’m looking to collaborate on python related projects
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me :
 www.twitter.com/AdewoleBidemi
           
